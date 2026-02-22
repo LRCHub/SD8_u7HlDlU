@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ターコイズドリップ",
+  "base_artist": "claquepot",
+  "createdAt": "2026-02-22T14:20:32.479613Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ターコイズドリップ",
+      "artist": "claquepot",
+      "has_synced": false,
+      "path": "select/01_ターコイズドリップ_claquepot.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ターコイズドリップ",
+      "artist": "claquepot",
+      "has_synced": false,
+      "path": "select/pl_01_ターコイズドリップ_claquepot.txt"
+    }
+  ]
+}
